@@ -8,8 +8,9 @@ In this project, we use machine learning algorithms to intrusion detection on NS
 
 ## Project
 
-[Python Notebook]: https://github.com/merteroglu/NSL-KDD-Network-Intrusion-Detection/blob/master/NID.ipynb	"Python Notebook"
-[Google Colab]: https://colab.research.google.com/drive/1Uaw5cR_U7qVXPEPscwNic9nTEdtFHJq2	"Google Colab"
+[Python Notebook](https://github.com/merteroglu/NSL-KDD-Network-Intrusion-Detection/blob/master/NID.ipynb	"Python Notebook")
+
+[Google Colab](https://colab.research.google.com/drive/1Uaw5cR_U7qVXPEPscwNic9nTEdtFHJq2	"Google Colab")
 
 ## Credits
 
