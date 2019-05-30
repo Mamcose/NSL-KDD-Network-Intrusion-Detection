@@ -11,14 +11,13 @@ In this project, we use machine learning algorithms to intrusion detection on NS
 Author : Mert Eroglu
 
 <a href="https://github.com/merteroglu">
-<img border="0" alt="Github" src="https://asciidoctor.org/images/octocat.jpg" width="64" height="64">
+<img border="0" alt="Github" src="https://asciidoctor.org/images/octocat.jpg" width="64" height="64"/></a>
 
 <a href="https://twitter.com/16PaxweL">
-<img border="0" alt="Twitter" src="http://logovector.net/wp-content/uploads/2014/08/Twitter-2012-Positive-logo.png" width="64" height="64">
+<img border="0" alt="Twitter" src="http://logovector.net/wp-content/uploads/2014/08/Twitter-2012-Positive-logo.png" width="64" height="64"/></a>
 
 <a href="https://www.linkedin.com/in/mert-eroglu/">
-<img border="0" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="64" height="64">
-
+<img border="0" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="64" height="64"/></a>
 
 
 ------
@@ -26,11 +25,11 @@ Author : Mert Eroglu
 Author : Müslüm Sezgin
 
 <a href="https://github.com/muslumsezgin">
-<img border="0" alt="Github" src="https://asciidoctor.org/images/octocat.jpg" width="64" height="64">
+<img border="0" alt="Github" src="https://asciidoctor.org/images/octocat.jpg" width="64" height="64"/></a>
 
 <a href="https://twitter.com/szgnmslm">
-<img border="0" alt="Twitter" src="http://logovector.net/wp-content/uploads/2014/08/Twitter-2012-Positive-logo.png" width="64" height="64">
+<img border="0" alt="Twitter" src="http://logovector.net/wp-content/uploads/2014/08/Twitter-2012-Positive-logo.png" width="64" height="64"/></a>
 
 <a href="https://www.linkedin.com/in/muslumsezgin/">
-<img border="0" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="64" height="64">
+<img border="0" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="64" height="64"/></a>
 
